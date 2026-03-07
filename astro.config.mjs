@@ -6,7 +6,7 @@ import svgr from 'vite-plugin-svgr';
 // https://astro.build/config
 export default defineConfig({
   output: 'static',
-  site: 'https://integratedresponsegroup.com',
+  site: 'https://integratedresponsegroup.org',
   base: '/',
   // base: '/integrated-response-group/',
   vite: {
